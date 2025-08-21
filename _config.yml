@@ -23,7 +23,7 @@ contact_channels:
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
-  # mastodon: "https://lile.cl/"
+  mastodon: "https://mastodon.social/explore"
   # threads: "https://www.threads.net/@example"
   linkedin: "https://www.linkedin.com/in/lasse-storgaard-7355495/"
 
