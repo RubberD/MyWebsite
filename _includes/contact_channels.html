@@ -72,6 +72,19 @@
       alt="Mastodon Icon"
     />
   </a>
+  {% endif %} {% if contact_channels.bsky %}
+  <a
+    class="transition hover:scale-110 duration-300"
+    rel="me"
+    href="{{ contact_channels.bsky }}"
+    target="_blank"
+  >
+    <img
+      class="h-6 w-6 dark:invert"
+      src="{{'/assets/images/contact_channels/bsky.svg' | relative_url }}"
+      alt="Bluesky Icon"
+    />
+  </a>
   {% endif %}
   {% if contact_channels.linkedin %}
   <a
