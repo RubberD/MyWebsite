@@ -1,15 +1,15 @@
 home:
-  contact_me: "You can contact me on any of these channels:"
-  blog_title: "Blog: Last Posts"
-  see_more_posts: "See More Posts ->"
-  projects_title: "Last Projects"
-  see_more_projects: "See More Projects ->"
+  contact_me: "Du kan fange meg en av disse stedene::"
+  blog_title: "Blogg: siste posts"
+  see_more_posts: "Se flere posts ->"
+  projects_title: "Siste prosjekter"
+  see_more_projects: "Se flere prosjekter ->"
 footer:
-  title: "Let's keep in touch!"
-  description: " Find me on any of these platforms. "
+  title: "Holde forbindelsen?!"
+  description: " Find meg på en plattform nær deg. "
   pages: Pages
 blog:
-  read_more: "Read More ->"
-  more_articles: "More Posts"
+  read_more: "Les mere ->"
+  more_articles: "Flere poster"
 post:
-  share: Like it? Share it!
+  share: Liker du det? Del det!
