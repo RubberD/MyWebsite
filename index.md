@@ -2,8 +2,7 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+  Dette er en spesiell side!
 image: /assets/images/logo_profil.png
 main_content: >
   # Hello Friend. Hello World.
