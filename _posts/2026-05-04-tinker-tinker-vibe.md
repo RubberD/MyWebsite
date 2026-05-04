@@ -8,23 +8,12 @@ author: Me
 
 Kunstig intelligens gjør det helt absurd enkelt å tukle eller mekke med teknologi.
 Nå har jeg brukt flere KI verktøy siden det ble populært.
-Litt pga. jobb, men mest pga. det er gøy. Eller det man kan gjøre med de er gøy da. Åssen ser det ut om jeg bare lager en veldig veldig lang linje?
 
-...*
+Litt pga. jobb, men mest pga. det er gøy. Jeg har brukt litt ChatGPT til å lage Vibe kodet hobby prosjekter her hjemme. Men syntes litt den og de andre har slitt med å treffe på å bli helt bra. Copilot har jeg har hatt i VSCode og den hjalp da. Kanskje mest med feil, men var aldri helt sånn at nå lager vi et prosjekt fra ende til annen.
 
+Typisk syntes jeg de slet med "nytt" rundt FOSS programvare som den åbenbart ikke klarte å henge med på. Hvilket jeg egentlig kan gjenkjende, for det kan jeg ikke selv. Det går rett å slett for hurtig hvis man ikke jobber professjonelt med det og kanskje er det noe med hvor lenge siden en KI har blit trent på data?
 
-Jeg har brukt flere KI verktøy nå siden det fikk sin vår. Det har vært gøy, rett
-og slett. Men ikke så mye mer enn gøy. For meg startet jeg med Midjourney. Og det
-var jo veldig gøy, men ikke riktig så nyttig for meg. Copilot fikk jeg litt tvunget
-ned i halsen av Microsoft, først på jobb med insane mengde hype, også hjemme da 
-måket det inn i samtlige produkter og abonnementer. ChatGPT var frivillig og litt
-sånn av å på. Prøvde å kode litt med ChatGPT, men stødte hurtig på problemer "den"
-gjorde feil og som rett å slett var for vanskelig å løse. Det var mye rundt FOSS
-programvare som den åbenbart ikke klarte å henge med på. Hvilket jeg egentlig 100%
-kan gjenkjende. 
-
-Lovable.dev og Base44 var ganske kule, men løp så fort tørr for Credits og følte
-kanskje man kom litt vel langt unna selve koden for min del.
+Lovable.dev og Base44 var ganske kule, men løp så fort tørr for Credits og følte kanskje man kom litt vel langt unna selve koden for min del. Men er jo et kult LowCode-ish/Citizen development med fast teknologi plattform. Gjør kanskje det litt enklere for verktøyene.
 
 ## Old stuff?
 Alle sa jeg skulle bruke Claude Code istedet. ALLE. Selv jurister på jobb sa det. 
