@@ -6,6 +6,13 @@ category: Ai
 author: Me
 ---
 
+Kunstig intelligens gjør det helt absurd enkelt å tukle eller mekke med teknologi.
+Nå har jeg brukt flere KI verktøy siden det ble populært.
+Litt pga. jobb, men mest pga. det er gøy. Eller det man kan gjøre med de er gøy da. Åssen ser det ut om jeg bare lager en veldig veldig lang linje?
+
+...*
+
+
 Jeg har brukt flere KI verktøy nå siden det fikk sin vår. Det har vært gøy, rett
 og slett. Men ikke så mye mer enn gøy. For meg startet jeg med Midjourney. Og det
 var jo veldig gøy, men ikke riktig så nyttig for meg. Copilot fikk jeg litt tvunget
@@ -15,6 +22,7 @@ sånn av å på. Prøvde å kode litt med ChatGPT, men stødte hurtig på proble
 gjorde feil og som rett å slett var for vanskelig å løse. Det var mye rundt FOSS
 programvare som den åbenbart ikke klarte å henge med på. Hvilket jeg egentlig 100%
 kan gjenkjende. 
+
 Lovable.dev og Base44 var ganske kule, men løp så fort tørr for Credits og følte
 kanskje man kom litt vel langt unna selve koden for min del.
 
