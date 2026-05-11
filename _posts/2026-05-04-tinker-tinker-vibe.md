@@ -26,11 +26,9 @@ Jeg prøvde å lage meg en treningslogg. Den foreslog en enkelt test med Mysql l
 ## Finnne på nye ting?
 Men siden den kanskje var "trent" på å lage treningslogg, kunne det være spennende å prøve noe helt nytt som ingen andre har funnet på før. Og her kommer min ProxSQL ide til sin rett. Jeg bad den rett å slett å om lage meg Proxy for SQL traffik som konverterer data mellom server og klient til HTTP-trafik og gjør en OIDC autentisering. Og OMG den catchet ideen lynrask i første forsøk!
 
-Den foreslo å bruke Go og Keycloak, og satte igang. Rebuild av containere, feilfinding, konfig av Keycloak og 5-6 timer med fikling så hadde jeg en Proof of Concept på man faktisk kan få få en slik Proxy til å fungere. 
+Den foreslo å bruke Go og Keycloak, og satte igang. Rebuild av containere, feilfinding, konfig av Keycloak og 5-6 timer med fikling så hadde jeg en Proof of Concept som viser man faktisk kan få få en slik Proxy til å fungere. Jeg kunne kople min Mysql Workbench til min container, kontaineren trigget en Auth mot Keycloak i nettleseren, Keycloak ga tilbake en token og HTTP tunellen ble åpnet mot Server kontaineren - og You are logged in!.
 
-Jeg kunne kople min Mysql Workbench til min container, kontaineren trigget en Auth mot Keycloak, Keycloak ga tilbake en token og HTTP tunellen ble åpnet mot Server kontaineren - og You are logged in!.
-
-Sekundet senere ble tunellen stengt igjen. Lurer på om det er noe rot med oppgradering til WebSocket, men ikke desto mindre så fungerte det. Neste steg er nok å få den stabil og få sett litt på hvor skalerbar den er ytelsesmessig på server kontaineren.
+Sekundet senere ble tunellen stengt igjen. Lurer på om det er noe rot med oppgradering til WebSocket, men ikke desto mindre så fungerte det. Neste steg er nok å få den stabil og få sett litt på hvor skalerbar den er ytelsesmessig på server kontaineren. Selv om POC fungerer så er det ikke sikkert den fungerer i praksis.
 
 ## I'm a n00b
 Og det er litt greiene, jeg er ikke en utvikler jeg er en n00b. Men jeg digger å lære om teknologi og i min jobb så trenger jeg virkelig å forstå teknoglogi. Med Claude Code i hånda så er jeg i stand til å ta ganske avanserte FOSS applikasjoner og rammeverk ned til et "Tinker" nivå og for meg er det helt insane bra hvor jeg lærer utrolig mye! For meg så handler det om å få den sparringspartneren som ikke blir lei av mine dumme spørsmål.
